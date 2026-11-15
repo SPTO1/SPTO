@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">SPTO COIN</title>
+  <desc id="desc">Logo de SPTO COIN con tres espetos de pescado estilizados.</desc>
+  <rect width="256" height="256" fill="#fff1c9"/>
+  <circle cx="128" cy="128" r="111" fill="none" stroke="#bd472b" stroke-width="5"/>
+  <g fill="#0f5c93" font-family="Arial, Helvetica, sans-serif" font-weight="800" text-anchor="middle">
+    <text x="128" y="73" font-size="43" letter-spacing="-2">SPTO</text>
+    <text x="128" y="218" font-size="41" letter-spacing="-1">COIN</text>
+  </g>
+  <path d="M128 75v102" stroke="#bd472b" stroke-width="5" stroke-linecap="round"/>
+  <g fill="#fff1c9" stroke="#0f5c93" stroke-width="3" stroke-linejoin="round">
+    <path d="M89 96c13-13 39-15 70-5l14-8-8 12 8 12-14-8c-31 10-57 8-70-3Z"/>
+    <path d="M89 121c13-13 39-15 70-5l14-8-8 12 8 12-14-8c-31 10-57 8-70-3Z"/>
+    <path d="M89 146c13-13 39-15 70-5l14-8-8 12 8 12-14-8c-31 10-57 8-70-3Z"/>
+  </g>
+  <g fill="#0f5c93">
+    <circle cx="105" cy="98" r="3"/><circle cx="105" cy="123" r="3"/><circle cx="105" cy="148" r="3"/>
+  </g>
+</svg>
